@@ -1,8 +1,21 @@
-.Rproj.user
+# macOS files ----
+.DS_Store
+
+# History files ----
 .Rhistory
+.Rapp.history
+
+# Session Data files ----
 .RData
 .Ruserdata
-.Rdata
-.httr-oauth
-.DS_Store
-.quarto
+
+# RStudio files ----
+*.Rproj
+.Rproj.user/
+
+# R Environment Variables ----
+.Renviron
+
+# User-specific files ----
+README.html
+inst/doc

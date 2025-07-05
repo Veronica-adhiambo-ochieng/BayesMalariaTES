@@ -17,7 +17,13 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Veronica Adhiambo \email{veronica.adhiambo@aims.ac.rw} (\href{https://orcid.org/{{orcid}}}{ORCID}) [copyright holder]
+\strong{Maintainer}: Veronica Adhiambo Ochieng \email{veronica.adhiambo@aims.ac.rw}
+
+Authors:
+\itemize{
+  \item Mateusz Plucinski
+  \item Monica Golumbeanu
+}
 
 }
 \keyword{internal}
